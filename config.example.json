@@ -1,0 +1,7 @@
+{
+  "token": "BOT_TOKEN_BURAYA",
+  "clientId": "BOT_CLIENT_ID_BURAYA",
+  "guildId": "SUNUCU_ID_BURAYA",
+  "adminRoleId": "ADMIN_ROL_ID_BURAYA",
+  "logChannelId": "LOG_KANAL_ID_BURAYA"
+}

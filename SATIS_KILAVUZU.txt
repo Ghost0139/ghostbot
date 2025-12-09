@@ -1,0 +1,280 @@
+# 💼 GhostBots - Satıcı Kılavuzu
+
+## 📦 Ürün Özellikleri
+
+### ✅ Neler Dahil?
+- ✔️ Tam kaynak kodu (tüm dosyalar)
+- ✔️ Otomatik kurulum scripti (`setup.bat`)
+- ✔️ 26 komut (Moderasyon, Müzik, Level, Ticket, Stats)
+- ✔️ JSON database (kolay yedekleme)
+- ✔️ PM2 desteği (7/24 çalışma)
+- ✔️ Detaylı README.md
+- ✔️ Profesyonel embed tasarımları
+
+### 🎯 Hedef Kitle
+- Discord sunucu sahipleri
+- Oyun toplulukları
+- Roleplay sunucuları
+- Moderasyon ekipleri
+- Müzik botu arayanlar
+
+## 💰 Fiyatlandırma Önerileri
+
+### Paket 1: Sadece Bot Dosyaları
+**Fiyat:** 50-75 TL
+**İçerik:**
+- Bot kaynak kodları
+- README.md (kurulum rehberi)
+- setup.bat (otomatik kurulum)
+
+### Paket 2: Bot + Kurulum Hizmeti ⭐ (ÖNERİLEN)
+**Fiyat:** 100-150 TL
+**İçerik:**
+- Paket 1'deki her şey
+- Uzaktan kurulum
+- Bot token ayarlama
+- Discord Developer Portal ayarları
+- İlk test
+
+### Paket 3: Bot + Kurulum + Hosting
+**Fiyat:** 150-250 TL (ilk ay)
+**İçerik:**
+- Paket 2'deki her şey
+- Hosting ayarlama (Railway/Render/VPS)
+- 1 ay hosting ücreti
+- PM2 kurulumu
+
+### Ek Hizmetler
+- **Aylık Hosting:** 30-50 TL/ay
+- **Özelleştirme:** 50-100 TL (komut ekleme, renk değiştirme, vs.)
+- **7/24 Destek:** +25 TL/ay
+- **Kaynak Kodu Değiştirme Hakkı:** +50 TL
+
+## 📢 Satış Metni Şablonları
+
+### Discord Sunucuları İçin
+```
+🤖 **GhostBots - Profesyonel 5-in-1 Discord Botu!**
+
+⚡ **ÖZELLİKLER:**
+• Moderasyon Sistemi (ban, kick, timeout, log)
+• Müzik Botu (YouTube, kuyruk, ses ayarı)
+• Leveling Sistemi (rank, leaderboard, ödül rolleri)
+• Ticket Sistemi (5 kategori, dropdown menü)
+• İstatistik Sistemi (mesaj, ses, join/leave)
+
+🎁 **BONUS:**
+• Tek tıkla kurulum (setup.bat)
+• 26 farklı komut
+• JSON database (kolay backup)
+• 7/24 çalışma desteği (PM2)
+
+💰 **FİYATLAR:**
+Bot Dosyaları: 50 TL
+Bot + Kurulum: 100 TL
+Bot + Kurulum + Hosting: 150 TL
+
+📞 **İLETİŞİM:** [Discord/Telegram]
+🎮 **DEMO:** [Demo Sunucu Linki]
+```
+
+### Sosyal Medya İçin
+```
+🚀 Discord sunucunuzu profesyonelleştirin!
+
+GhostBots ile:
+✅ Otomatik moderasyon
+✅ Müzik çalma
+✅ Seviye sistemi
+✅ Ticket yönetimi
+✅ Detaylı istatistikler
+
+Tek tıkla kurulum! 
+Fiyat: 50 TL'den başlayan
+
+DM'den ulaşın! 💬
+```
+
+## 🎯 Satış Stratejileri
+
+### 1. Demo Sunucusu Oluştur
+- Botu çalışır halde göster
+- Tüm özellikleri test ettir
+- Demo sunucu linkini paylaş
+
+### 2. Video Tanıtım Yap
+- YouTube/TikTok'ta 1 dakikalık video
+- Kurulum sürecini göster
+- Özellikleri tek tek tanıt
+
+### 3. Müşteri Referansları
+- İlk müşterilerden feedback al
+- Ekran görüntüleri paylaş
+- Pozitif yorumları kullan
+
+### 4. İndirim Kampanyaları
+- İlk 10 müşteriye %20 indirim
+- Arkadaşını getir kampanyası
+- Bayram/özel gün indirimleri
+
+### 5. Nerede Sat?
+- Discord sunucuları (botmarket sunucuları)
+- Sahibinden.com
+- Letgo/Dolap
+- Twitter/X
+- Instagram
+- Reddit (r/discordbots)
+- Fiverr/Freelancer
+
+## 🛠️ Müşteriye Kurulum Rehberi
+
+### Adım 1: Ön Gereksinimler
+```
+1. Node.js v18+ kurulu olmalı
+2. Discord Developer Portal'dan bot oluşturulmalı
+3. Bot token alınmalı
+4. Intents aktif edilmeli:
+   - Server Members Intent
+   - Message Content Intent
+   - Presence Intent
+```
+
+### Adım 2: Bot Dosyalarını Gönder
+```
+1. GhostBots klasörünü .zip olarak gönder
+2. Müşteri zip'i çıkarsın
+3. setup.bat'ı çalıştırsın
+```
+
+### Adım 3: Kurulum Scripti
+```
+1. setup.bat çalıştırıldığında otomatik:
+   - Node.js kontrol eder
+   - npm install yapar
+   - config.json oluşturur
+   - Bot token sorar
+   - Komutları Discord'a kaydeder
+   - PM2 kurar (isteğe bağlı)
+```
+
+### Adım 4: Bot Davet Linki
+```
+https://discord.com/api/oauth2/authorize?client_id=CLIENT_ID&permissions=8&scope=bot%20applications.commands
+
+CLIENT_ID yerine bot ID'sini yaz
+```
+
+## 🔒 Lisans Politikası
+
+### Satış Lisansı
+- Kaynak kodunu değiştirme hakkı: +50 TL
+- Yeniden satış hakkı: YOK
+- Çoğaltma hakkı: YOK (her satış için ayrı lisans)
+
+### Telif Hakkı Koruması
+```javascript
+// index.js başına ekle:
+/*
+ * GhostBots v1.0
+ * Licensed to: [MÜŞTERİ ADI]
+ * License Key: [RASTGELE KEY]
+ * Do not redistribute or resell
+ */
+```
+
+## 💡 Ek Gelir Fırsatları
+
+### 1. Özelleştirme Hizmetleri
+- Komut ekleme: 25-50 TL/komut
+- Renk/tema değiştirme: 25 TL
+- Logo ekleme: 50 TL
+
+### 2. Hosting Hizmeti
+- Aylık: 30-50 TL
+- Yıllık: 300-400 TL (2 ay bedava)
+
+### 3. Destek Paketi
+- 1 aylık: 25 TL
+- 3 aylık: 60 TL
+- Yıllık: 200 TL
+
+### 4. Güncelleme Paketi
+- Aylık güncellemeler: 10 TL/ay
+- Yeni özellikler öncelikli: 15 TL/ay
+
+## 📊 Başarı Metrikleri
+
+### İlk Ayda Hedef
+- 10-15 satış
+- 1000-1500 TL gelir
+- 3-5 referans müşteri
+
+### 3. Ayda Hedef
+- 50+ satış
+- 5000+ TL gelir
+- Demo sunucuda 100+ üye
+
+## ⚠️ Dikkat Edilmesi Gerekenler
+
+### Yasal
+1. Müşteriye lisans sözleşmesi imzalat
+2. Kaynak kodu koruması yap
+3. Her satışı kayıt altına al
+
+### Teknik
+1. Her müşteriye farklı config.json ver
+2. Bot token'ı sen oluşturma (müşteri kendi oluştursun)
+3. Hosting kullanıyorsan müşteri bilgilerini kaydet
+
+### Destek
+1. İlk 7 gün ücretsiz destek ver
+2. Kurulum sorunlarında yardımcı ol
+3. Müşteri memnuniyetini ön planda tut
+
+## 🎁 Bonus İçerik
+
+### Müşteriler İçin Videolar
+1. Kurulum videosu (5 dk)
+2. Komutları kullanma (10 dk)
+3. Ticket sistemi kurma (3 dk)
+4. Leveling ayarları (5 dk)
+
+### Ek Dökümanlar
+- commands.txt (tüm komutlar listesi)
+- troubleshooting.txt (sorun giderme)
+- hosting-guide.txt (hosting kurulumu)
+
+---
+
+## 📞 Satış Sonrası İletişim Şablonları
+
+### Kurulum Tamamlandı
+```
+✅ Kurulum tamamlandı!
+
+Bot şimdi sunucunuzda aktif.
+
+📚 Tüm komutlar için: README.md
+🔧 Sorun olursa: [İletişim]
+⭐ Memnun kaldıysanız referans olur musunuz?
+
+Teşekkürler! 🙏
+```
+
+### Sorun Bildirimi Alındı
+```
+📩 Mesajınız alındı!
+
+En kısa sürede geri dönüş yapacağım.
+Genellikle 2-3 saat içinde yanıt veriyorum.
+
+Acil durumlar için: [Telefon]
+
+Sabırınız için teşekkürler! ⏰
+```
+
+---
+
+**Son Güncelleme:** Aralık 2024
+**Versiyon:** 1.0
+**İletişim:** [Sizin bilgileriniz]
